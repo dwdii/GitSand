@@ -1,0 +1,5 @@
+C:\SourceCode\DittenhaferSolutions\TestApps\GitSand\GitSand\bin\Debug\GitSand.exe
+C:\SourceCode\DittenhaferSolutions\TestApps\GitSand\GitSand\bin\Debug\GitSand.pdb
+C:\SourceCode\DittenhaferSolutions\TestApps\GitSand\GitSand\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SourceCode\DittenhaferSolutions\TestApps\GitSand\GitSand\obj\x86\Debug\GitSand.exe
+C:\SourceCode\DittenhaferSolutions\TestApps\GitSand\GitSand\obj\x86\Debug\GitSand.pdb
