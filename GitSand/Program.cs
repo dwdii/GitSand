@@ -10,6 +10,7 @@ namespace GitSand
         static void Main(string[] args)
         {
             Console.Out.WriteLine("Hello GitSand!");
+            Console.Out.WriteLine("Press ENTER to END.");
             Console.ReadLine();
         }
     }
